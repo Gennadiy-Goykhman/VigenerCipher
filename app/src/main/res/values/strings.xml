@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Шифр Виженера</string>
+    <string-array name="gamma_array">
+        <item>Повторение ключа</item>
+        <item>С/к по откр. тексту</item>
+        <item>С/к по шифртексту</item>
+    </string-array>
+    <string name="key">Ключ</string>
+    <string name="Opentext">Открытый текст</string>
+    <string name="Ciphertext">Шифртекст</string>
+    <string name="encode">Зашифровать</string>
+    <string name="decode">Расшифровать</string>
+    <string name="execute">Выполнить</string>
+    <string name="title_gamma">Выберите тип гаммы</string>
+    <string name="mode">Режим</string>
+    <string name="gamma_title">Гамма-последовательность</string>
+</resources>
